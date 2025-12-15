@@ -19,10 +19,6 @@
 *.tar.gz
 *.rar
 
-# BUT keep jars in lib/
-!lib/
-!lib/*.jar
-
 # JVM crash logs
 hs_err_pid*
 replay_pid*
