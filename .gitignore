@@ -12,6 +12,7 @@
 
 # Ignore the lib folder and everything inside it
 lib/
+bin/
 
 # Ignore all package files / JARs
 *.jar
