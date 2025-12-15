@@ -43,7 +43,7 @@ This project is intended for learning, experimentation, and community-made mods.
 
 ## How to Run
 
-1. Put `EquilinoxModLoader.jar` and `run_modded (Put me in the root game dir).bat` in the same folder as `EquilinoxWindows.jar`.  
+1. Put `EquilinoxModLoader.jar` and `run_modded.bat` in the same folder as `EquilinoxWindows.jar`.  
    - For Steam users, the default location is usually:  
      ```
      C:\Program Files (x86)\Steam\steamapps\common\Equilinox
